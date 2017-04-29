@@ -1,3 +1,8 @@
+# react-css-clock
+refactored version of this clock : https://github.com/nightwing891/JavaScript-30/tree/master/jsCssClock
+
+This Project is hosted on : http://doan-react-clock.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1621,3 +1626,6 @@ Please refer to [this section](#resolving-heroku-deployment-errors).
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+
+
